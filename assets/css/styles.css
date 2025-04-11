@@ -96,6 +96,7 @@
 
     .subtitle{
         margin:20px;
+        font-size:1.3em;
     }
 
     .captura{
@@ -110,7 +111,6 @@
     .figcaption-text{
         justify-content: center;
         padding: 5px;
-        font-size:1.3em;
     }
 
     button{
