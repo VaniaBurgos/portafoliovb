@@ -110,6 +110,7 @@
     .figcaption-text{
         justify-content: center;
         padding: 5px;
+        font-size:1.3em;
     }
 
     button{
